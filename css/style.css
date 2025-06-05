@@ -1,7 +1,7 @@
 .navigation{
     position: relative;
-    top: 33px;
-    right: 78px;
+    margin-top: 33px;
+    margin-right: 78px;
 
     display: flex;
     justify-content: flex-end;
@@ -14,8 +14,14 @@
 .section-1{
     position: relative;
     display: flex;
-    top: 52px;
+    margin-top: 30px;
     justify-content: center;
+    background-image: url("../img/Rectangle\ 1.svg");
+    background-size: cover;        
+    background-position: center;  
+    background-repeat: no-repeat; 
+    width: 100%; 
+    height: 600px;
 
 }
 .section-1 img{
@@ -41,4 +47,26 @@
      top: 360px;
      
 
+}
+.left-side{
+    height: 215px;
+    width: 235px;
+    margin-top: 84px;
+    position: relative;
+    margin-left: 100px;
+    
+}
+.left-side h1{
+    font-size: 16px;
+    color: #636060;
+    margin-bottom: 9px;
+}
+.left-side h2{
+    font-size: 28px;
+    color: #010101;
+    margin-bottom: 37px;
+}
+.left-side p{
+    font-size: 20px;
+    color: #636060;
 }
