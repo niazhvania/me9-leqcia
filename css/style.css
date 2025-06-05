@@ -10,3 +10,35 @@
     margin-left: 50px;
     font-size: 16px;
     color: #636060;
+}
+.section-1{
+    position: relative;
+    display: flex;
+    top: 52px;
+    justify-content: center;
+
+}
+.section-1 img{
+    width: 100%;
+    position: absolute;
+   
+}
+.section-1 p{
+    position: absolute;
+    color: white;
+
+}
+.discover{
+    position: absolute;
+    font-size: 80px;
+    font-weight: 700;
+    top:238px;
+    
+
+}
+.travel{
+     font-size: 20px;
+     top: 360px;
+     
+
+}
