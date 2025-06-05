@@ -70,3 +70,32 @@
     font-size: 20px;
     color: #636060;
 }
+.right-side{
+    display: flex;
+    flex-flow: row wrap;
+    width: 924px;
+    height: 680px;
+    justify-content: space-between;
+    align-content: space-between;
+    margin-left: 83px;
+    margin-top: 84px;
+}
+.right-side div{
+    width: 286px;
+    height: 300px;
+}
+.right-side div h1{
+    font-size: 20px;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.right-side div p{
+    font-size: 18px;
+    color: #636060;
+    margin-bottom: 56px;
+
+}
+.section{
+    display: flex;
+    margin-bottom: 140px;
+}
